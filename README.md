@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah 
 - 👀 A Software Engineer ...
-- 🌱 Stack ReactJs| Javascript
+- 🌱 Stack MERN Stack developer
 - 💞️ Open to collaborate on web projects
 - 📫 Reach me at elijahamoduu49@gmail.com...
 
